@@ -9,7 +9,7 @@ function App() {
     return (
         <>
             <h1>Hello, World</h1>
-            <p>Please Host My App.</p>
+            <p>Hosted With ❤️ By Launch Pad. </p>
         </>
     )
 }
